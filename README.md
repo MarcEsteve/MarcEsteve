@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @MarcEsteve
-- 👀 I’m interested in Formation
+- 👀 I’m interested in DIGITAL Formation
 - 🌱 I’m currently learning about life
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me:
-- - Twitter: @MarcEsteveG https://twitter.com/MarcEsteveG
+- - Twitter: https://twitter.com/MarcEsteveG
 - - LinkedIn: https://www.linkedin.com/in/marcestevegarcia/
-- - My website: https://pr0j3ct.com/
+- - My WEB: https://pr0j3ct.com/
 
 <!---
 MarcEsteve/MarcEsteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
