@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about life
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me:
-- - Twitter: https://twitter.com/MarcEsteveG
+- - X(Twitter): https://twitter.com/MarcEsteveG
 - - LinkedIn: https://www.linkedin.com/in/marcestevegarcia/
 - - My WEB: https://pr0j3ct.com/
 
