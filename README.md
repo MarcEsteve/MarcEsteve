@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcEsteve
+# 👋 Hi, I’m @MarcEsteve
 - 👀 I’m interested in DIGITAL Formation
 - 🌱 I’m currently learning about life
 - 💞️ I’m looking to collaborate on other developers
@@ -7,7 +7,7 @@
 - - LinkedIn: https://www.linkedin.com/in/marcestevegarcia/
 - - My WEB: https://pr0j3ct.com/
 
->[!TIP]
+>.[!TIP].
 > Mi portfolio : https://pr0j3ct.com/portfoli
 
 <!---
