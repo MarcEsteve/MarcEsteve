@@ -7,5 +7,5 @@
 - X(Twitter): https://twitter.com/MarcEsteveG
 - LinkedIn: https://www.linkedin.com/in/marcestevegarcia/
 
->[!TIP]
+>[!IMPORTANT]
 > Mi portfolio : https://pr0j3ct.com/portfoli
