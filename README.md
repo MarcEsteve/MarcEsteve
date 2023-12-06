@@ -9,3 +9,5 @@
 
 >[!IMPORTANT]
 > Mi portfolio : https://pr0j3ct.com/portfoli
+
+<img width="120" alt="PR0J3CT logo" src="https://pr0j3ct.com/wp-content/uploads/2019/02/PR0J3CT-groc-negre-logo-2022-web-formation-developer-teacher-maintenance.png">
