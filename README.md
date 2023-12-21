@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MarcEsteve !
+# 🤟 Hi, I’m Marc Esteve Garcia !
 - 👀 I’m interested in DIGITAL Formation
 - 🌱 I’m currently learning about life
 - 💞️ I’m looking to collaborate on other developers
