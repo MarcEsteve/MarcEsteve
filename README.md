@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on other developers
 
 ### 📫 How to reach me:
-- X(Twitter): https://twitter.com/MarcEsteveG
+- X(Twitter): https://x.com/MarcEsteveG
 - LinkedIn: https://www.linkedin.com/in/marcestevegarcia/
 
 >[!IMPORTANT]
