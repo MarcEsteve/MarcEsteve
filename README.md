@@ -18,15 +18,6 @@ I combine software development with technical training, helping people turn conc
 
 **Tools:** Git · GitHub · VS Code · Jupyter Notebook
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [FES · UAB](https://github.com/MarcEsteve/fes-uab-2026) | Python programming fundamentals, exercises and Jupyter notebooks for university students. |
-| [PAI · UAB](https://github.com/MarcEsteve/pai-uab-2026) | Web development teaching materials covering HTML, CSS and JavaScript. |
-| [React + Firebase](https://github.com/MarcEsteve/react-crud-firestore-vehiculos) | Vehicle management web app with TypeScript, Firebase Authentication, Firestore and Redux Toolkit. |
-| [Python Automation](https://github.com/MarcEsteve/python-rda) | Practical Python exercises for task automation. |
-
 ### 🎓 Development & Teaching
 
 - Teaching programming and web development at **Universitat Autònoma de Barcelona (UAB)**.
